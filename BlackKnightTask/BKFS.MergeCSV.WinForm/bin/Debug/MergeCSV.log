@@ -1,0 +1,266 @@
+---------------------------------------------------------------------------------------
+09/11/2019 03:38:46 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 03:38:46 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 03:38:46 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 03:38:46 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 03:38:46 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 03:38:46 | INFO | LINQ query data is serialized.
+---------------------------------------------------------------------------------------
+09/11/2019 03:38:49 | INFO | Main - End
+---------------------------------------------------------------------------------------
+09/11/2019 03:39:28 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 03:39:28 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 03:39:28 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 03:39:39 | INFO | Main - End
+---------------------------------------------------------------------------------------
+09/11/2019 11:07:38 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 11:07:38 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 11:07:38 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 11:07:42 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:07:42 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:08:10 | ERROR | Input array is longer than the number of columns in this table. 
+   at BKFS.MergeCSV.WinForm.Forms.MergeCSVToJson.btnMerge_Click(Object sender, EventArgs e) in E:\Pradeep\BlackKnightTask\BKFS.MergeCSV.WinForm\Forms\MergeCSVToJson.cs:line 129
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at BKFS.MergeCSV.WinForm.Program.Main(String[] args) in E:\Pradeep\BlackKnightTask\BKFS.MergeCSV.WinForm\Program.cs:line 58
+---------------------------------------------------------------------------------------
+09/11/2019 11:08:20 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 11:08:20 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 11:08:20 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 11:08:26 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:08:26 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:08:26 | ERROR | Input array is longer than the number of columns in this table. 
+   at BKFS.MergeCSV.WinForm.Forms.MergeCSVToJson.btnMerge_Click(Object sender, EventArgs e) in E:\Pradeep\BlackKnightTask\BKFS.MergeCSV.WinForm\Forms\MergeCSVToJson.cs:line 129
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at BKFS.MergeCSV.WinForm.Program.Main(String[] args) in E:\Pradeep\BlackKnightTask\BKFS.MergeCSV.WinForm\Program.cs:line 58
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:22 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:22 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:22 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:25 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:25 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:25 | ERROR | Input array is longer than the number of columns in this table. 
+   at BKFS.MergeCSV.WinForm.Forms.MergeCSVToJson.btnMerge_Click(Object sender, EventArgs e) in E:\Pradeep\BlackKnightTask\BKFS.MergeCSV.WinForm\Forms\MergeCSVToJson.cs:line 129
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at BKFS.MergeCSV.WinForm.Program.Main(String[] args) in E:\Pradeep\BlackKnightTask\BKFS.MergeCSV.WinForm\Program.cs:line 58
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:31 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:31 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:31 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:41 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:41 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:10:41 | ERROR | Input array is longer than the number of columns in this table. 
+   at BKFS.MergeCSV.WinForm.Forms.MergeCSVToJson.btnMerge_Click(Object sender, EventArgs e) in E:\Pradeep\BlackKnightTask\BKFS.MergeCSV.WinForm\Forms\MergeCSVToJson.cs:line 129
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at BKFS.MergeCSV.WinForm.Program.Main(String[] args) in E:\Pradeep\BlackKnightTask\BKFS.MergeCSV.WinForm\Program.cs:line 58
+---------------------------------------------------------------------------------------
+09/11/2019 11:11:08 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 11:11:08 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 11:11:09 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 11:11:11 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:11:11 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:53:03 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 11:53:03 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 11:53:03 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 11:53:05 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:53:05 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 11:57:25 | INFO | LINQ query data is serialized.
+---------------------------------------------------------------------------------------
+09/11/2019 12:02:28 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 12:02:28 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 12:02:29 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 12:02:35 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 12:02:35 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 12:02:35 | INFO | LINQ query data is serialized.
+---------------------------------------------------------------------------------------
+09/11/2019 12:18:54 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 12:18:54 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 12:18:54 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 12:18:57 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 12:18:57 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 12:18:57 | INFO | LINQ query data is serialized.
+---------------------------------------------------------------------------------------
+09/11/2019 12:19:27 | INFO | LINQ query data is serialized.
+---------------------------------------------------------------------------------------
+09/11/2019 14:14:44 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 14:14:44 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 14:14:44 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 14:14:46 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 14:14:46 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 14:14:46 | INFO | LINQ query data is serialized.
+---------------------------------------------------------------------------------------
+09/11/2019 15:28:37 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 15:28:37 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 15:28:38 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 15:28:48 | INFO | Write the configuration details are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 15:28:48 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:28:48 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:30:44 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 15:30:44 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 15:30:44 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 15:30:46 | INFO | Write the configuration details are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 15:30:46 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:30:46 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:34:48 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 15:34:48 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 15:34:49 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 15:34:51 | INFO | Write the configuration details are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 15:34:51 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:34:51 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:37:57 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 15:37:57 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 15:37:57 | INFO | Read the configuration values are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 15:37:59 | INFO | Write the configuration details are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 15:37:59 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:37:59 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:41:53 | INFO | Write the configuration details are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 15:41:53 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:41:53 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:52:01 | INFO | Write the configuration details are successful.
+---------------------------------------------------------------------------------------
+09/11/2019 15:52:01 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:52:01 | INFO | Read the CSV file and created data table object.
+---------------------------------------------------------------------------------------
+09/11/2019 15:52:33 | INFO | Main - End
+---------------------------------------------------------------------------------------
+09/11/2019 15:54:01 | INFO | Main - Start
+---------------------------------------------------------------------------------------
+09/11/2019 15:54:01 | INFO | Mutex thread created.
+---------------------------------------------------------------------------------------
+09/11/2019 15:54:01 | INFO | Read the configuration values are successful.
